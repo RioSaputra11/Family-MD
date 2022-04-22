@@ -4,7 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 
 global.kontak = [
 ['6282117332347', 'Rio Saputra', true],
-['6282119094904', 'loli botz', true]
+['6282119094904', 'rxsz bot', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -23,17 +23,17 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://api.xteam.xyz': 'apikeylu',
+  'https://api.xteam.xyz': 'benniismaelapikey',
   'https://melcanz.com': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://api.lolhuman.xyz': 'ed6c4f2c72b6f92f7d201464',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apikeylu',
-  'https://pencarikode.xyz': 'apikeylu',
-  'https://hardianto.xyz': 'apikeylu',
-  'https://leyscoders-api.herokuapp.com': 'apikeylu'
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
+  'https://hardianto.xyz': 'hardianto',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-//global.wm = 'loli botz-md' by ©Rio'
+//global.wm = 'Rxsz bot-md' by ©Rio'
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
